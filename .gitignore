@@ -28,6 +28,9 @@ yarn-error.log*
 .env*.local
 .env
 
+# remove seed folder from local
+app/seed
+
 # vercel
 .vercel
 
